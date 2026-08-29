@@ -1,36 +1,37 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ========================================================= -->
+<!--                    ANIMATED HEADER                        -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MD.%20ARIF%20BILLAH%20SHOBUZ&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PHP%20Laravel%20Developer%20%7C%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ARIF%20BILLAH%20SHOBUZ&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%3C%2F%3E%20PHP%20Laravel%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=9BE9FF&color=0:050B14,35:0B1F33,70:162A46,100:271A45"/>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=2CDBFF&center=true&vCenter=true&width=750&lines=PHP+Laravel+Developer;Backend+Developer;REST+API+Developer;MySQL+%7C+PostgreSQL;Building+Scalable+Web+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=750&height=45&lines=Building+Scalable+Laravel+Applications;Crafting+Clean+REST+APIs;Turning+Ideas+Into+Web+Applications;Code+%7C+Learn+%7C+Build+%7C+Repeat+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br><br>
+<br>
 
-<a href="https://github.com/arifbillahshobuz">
-<img src="https://img.shields.io/github/followers/arifbillahshobuz?label=Followers&style=for-the-badge&logo=github&color=181717" />
+<img src="https://komarev.com/ghpvc/?username=arifbillahshobuz&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+<a href="https://github.com/arifbillahshobuz?tab=followers">
+<img src="https://img.shields.io/github/followers/arifbillahshobuz?label=Followers&style=for-the-badge&logo=github&color=181717"/>
 </a>
-
-<a href="https://github.com/arifbillahshobuz?tab=repositories">
-<img src="https://img.shields.io/github/stars/arifbillahshobuz?label=Stars&style=for-the-badge&logo=github&color=181717" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=arifbillahshobuz&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ========================================================= -->
+<!--                         ABOUT ME                          -->
+<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
-I'm a **PHP Laravel Developer** with **2.5+ years of experience** building scalable web applications, REST APIs and database-driven systems.
+I'm a **PHP Laravel Developer** with **2.5+ years of experience** building scalable web applications, REST APIs, and database-driven systems.
 
 - 🚀 Specialized in **PHP & Laravel**
 - 🔗 REST API & Third-Party API Integration
@@ -43,137 +44,187 @@ I'm a **PHP Laravel Developer** with **2.5+ years of experience** building scala
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
 
 ## 🛠️ Tech Stack
 
-### Backend
+### 💻 Languages & Frameworks
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,react,bootstrap,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css" />
 
 </p>
 
-### Tools & Technologies
+### 🗄️ Database & Tools
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,bootstrap,tailwind" />
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+### 🔗 APIs & Technologies
 
-<img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white" />
+<p align="left">
 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 
 </p>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+height="180"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arifbillahshobuz&theme=tokyonight&hide_border=true" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="180"
+/>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION ===================== -->
+<!-- ========================================================= -->
+<!--                       GITHUB STREAK                       -->
+<!-- ========================================================= -->
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=arifbillahshobuz&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                   CONTRIBUTION GRAPH                      -->
+<!-- ========================================================= -->
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arifbillahshobuz/arifbillahshobuz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img
+src="https://raw.githubusercontent.com/arifbillahshobuz/arifbillahshobuz/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+<!-- ========================================================= -->
+<!--                   FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/arifbillahshobuz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arifbillahshobuz&repo=YOUR_PROJECT_REPO_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/arifbillahshobuz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arifbillahshobuz&repo=YOUR_PROJECT_REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<td width="50%">
 
 ### 🌐 iNetworkBD
 
-Full-stack web platform built with **PHP Laravel**, including a user-facing website and centralized Admin Panel.
+Full-stack web platform with a user-facing website and centralized Admin Panel.
 
-**Tech:** `Laravel` `MySQL` `Blade` `REST API`
+**Tech Stack**
+
+`Laravel` `PHP` `MySQL` `Blade` `REST API`
+
+</td>
+
+<td width="50%">
 
 ### 🌐 The Jona Project
 
-Dynamic Laravel web platform with a comprehensive Admin Panel for centralized content and system management.
+Dynamic Laravel web platform with a comprehensive Admin Panel for content and system management.
 
-**Tech:** `Laravel` `Blade` `MySQL` `API`
+**Tech Stack**
+
+`Laravel` `Blade` `MySQL` `API`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### ✂️ Virtual Clipping
 
-Web-based platform developed using **PHP Laravel & Laravel Blade** with a centralized Admin Panel.
+Web-based platform built with Laravel and Blade with a centralized Admin Panel.
 
-**Tech:** `Laravel` `Blade` `MySQL`
+**Tech Stack**
+
+`Laravel` `Blade` `MySQL`
+
+</td>
+
+<td width="50%">
 
 ### 🛒 Multi-Vendor eCommerce
 
-Ongoing multi-vendor platform supporting **Customer, Vendor & Admin** functionality.
+Multi-vendor platform supporting Customer, Vendor and Admin functionality.
 
-**Features:**
+**Features**
 
-`Product Management` `Category Management` `Cart` `Orders` `Wishlist` `RBAC` `REST API`
+`Products` `Categories` `Cart` `Orders` `Wishlist` `RBAC` `REST API`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<!-- ===================== EXPERIENCE ===================== -->
+<!-- ========================================================= -->
+<!--                         EXPERIENCE                        -->
+<!-- ========================================================= -->
 
 ## 💼 Experience
 
-**Software Developer — N.I.Biz Soft**  
-`Feb 2026 – Jul 2026`
-
-**PHP Laravel Developer — R2ait**  
-`Aug 2025 – Jan 2026`
-
-**PHP Laravel Developer — DevTechMasters**  
-`Jan 2024 – Dec 2024`
-
-**PHP Laravel Paid Intern — Kodeeo Limited**  
-`Aug 2023 – Dec 2023`
+| Company | Position | Duration |
+|---|---|---|
+| **N.I.Biz Soft** | Software Developer | Feb 2026 – Jul 2026 |
+| **R2ait** | PHP Laravel Developer | Aug 2025 – Jan 2026 |
+| **DevTechMasters** | PHP Laravel Developer | Jan 2024 – Dec 2024 |
+| **Kodeeo Limited** | PHP Laravel Paid Intern | Aug 2023 – Dec 2023 |
 
 ---
 
-<!-- ===================== EDUCATION ===================== -->
+<!-- ========================================================= -->
+<!--                         EDUCATION                         -->
+<!-- ========================================================= -->
 
 ## 🎓 Education
 
@@ -185,42 +236,59 @@ Kushtia Polytechnic Institute
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ========================================================= -->
+<!--                         CONNECT                           -->
+<!-- ========================================================= -->
 
 ## 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:arifbillahshobuz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arifbillahshobuz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile -->
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Replace YOUR_PORTFOLIO_URL with your portfolio -->
-
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ========================================================= -->
+<!--                       DEVELOPER QUOTE                     -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 💡 `Code. Build. Learn. Repeat. 🚀`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Clean+Code+%7C+Scalable+Architecture+%7C+Continuous+Learning;Backend+Development+is+my+Craft+%F0%9F%92%BB;Building+Today%2C+Learning+for+Tomorrow+%F0%9F%9A%80"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    ANIMATED FOOTER                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=0:271A45,35:162A46,70:0B1F33,100:050B14"/>
 
 </div>
