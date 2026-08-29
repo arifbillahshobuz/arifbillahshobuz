@@ -51,7 +51,7 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/web-developer.svg" width="300px" alt="Web Developer">
+<img src="./assets/about-me.svg" width="320px" alt="Developer Illustration">
 
 </td>
 </tr>
