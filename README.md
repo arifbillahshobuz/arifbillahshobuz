@@ -15,11 +15,21 @@
 
 <p align="center">
 
+<a href="mailto:arifbillahshobuz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/arifbillahshobuz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=arifbillahshobuz&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </p>
 
@@ -188,25 +198,7 @@ Kushtia Polytechnic Institute
 
 ## 📫 Connect With Me
 
-<p align="center">
 
-<a href="mailto:arifbillahshobuz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/arifbillahshobuz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
