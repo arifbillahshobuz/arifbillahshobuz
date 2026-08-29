@@ -1,0 +1,111 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg"
+      x1="0%" y1="0%"
+      x2="100%" y2="100%">
+
+      <stop offset="0%" stop-color="#271A45"/>
+      <stop offset="40%" stop-color="#162A46"/>
+      <stop offset="75%" stop-color="#0B1F33"/>
+      <stop offset="100%" stop-color="#050B14"/>
+
+    </linearGradient>
+
+    <linearGradient id="wave"
+      x1="0%" y1="0%"
+      x2="100%" y2="0%">
+
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+
+    </linearGradient>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="1200" height="180" fill="url(#bg)"/>
+
+  <!-- Animated Wave -->
+
+  <path
+    d="M0 40
+       C150 90 250 -10 400 45
+       S650 95 800 40
+       S1050 -10 1200 45
+       L1200 0
+       L0 0 Z"
+    fill="url(#wave)"
+    opacity="0.18">
+
+    <animate
+      attributeName="d"
+      dur="7s"
+      repeatCount="indefinite"
+      values="
+      M0 40 C150 90 250 -10 400 45 S650 95 800 40 S1050 -10 1200 45 L1200 0 L0 0 Z;
+
+      M0 55 C150 0 250 100 400 50 S650 0 800 55 S1050 100 1200 40 L1200 0 L0 0 Z;
+
+      M0 40 C150 90 250 -10 400 45 S650 95 800 40 S1050 -10 1200 45 L1200 0 L0 0 Z
+      "/>
+
+  </path>
+
+  <!-- Wave Line -->
+
+  <path
+    d="M0 40
+       C150 90 250 -10 400 45
+       S650 95 800 40
+       S1050 -10 1200 45"
+    fill="none"
+    stroke="url(#wave)"
+    stroke-width="3">
+
+    <animate
+      attributeName="d"
+      dur="7s"
+      repeatCount="indefinite"
+      values="
+      M0 40 C150 90 250 -10 400 45 S650 95 800 40 S1050 -10 1200 45;
+
+      M0 55 C150 0 250 100 400 50 S650 0 800 55 S1050 100 1200 40;
+
+      M0 40 C150 90 250 -10 400 45 S650 95 800 40 S1050 -10 1200 45
+      "/>
+
+  </path>
+
+  <!-- Footer Text -->
+
+  <text
+    x="600"
+    y="115"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="18"
+    font-weight="600"
+    fill="#67E8F9">
+
+    CODE • BUILD • LEARN • REPEAT • 🚀
+
+  </text>
+
+  <text
+    x="600"
+    y="142"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13"
+    fill="#A5B4FC">
+
+    Thanks for visiting my profile!
+
+  </text>
+
+</svg>
