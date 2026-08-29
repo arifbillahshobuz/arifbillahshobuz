@@ -1,1 +1,479 @@
 
+<svg width="500" height="400" viewBox="0 0 500 400"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1726"/>
+      <stop offset="50%" stop-color="#102A43"/>
+      <stop offset="100%" stop-color="#21143D"/>
+    </linearGradient>
+
+    <!-- Screen -->
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07131F"/>
+      <stop offset="100%" stop-color="#102B3D"/>
+    </linearGradient>
+
+    <!-- Cyan/Purple -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft shadow -->
+    <filter id="shadow">
+      <feDropShadow
+        dx="0"
+        dy="8"
+        stdDeviation="10"
+        flood-opacity="0.35"/>
+    </filter>
+
+  </defs>
+
+
+  <!-- ====================================================== -->
+  <!-- BACKGROUND -->
+  <!-- ====================================================== -->
+
+  <rect
+    width="500"
+    height="400"
+    rx="24"
+    fill="url(#bg)"
+  />
+
+  <!-- Background circles -->
+
+  <circle
+    cx="70"
+    cy="70"
+    r="45"
+    fill="#00E5FF"
+    opacity="0.04">
+
+    <animate
+      attributeName="r"
+      values="40;55;40"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+  <circle
+    cx="430"
+    cy="320"
+    r="70"
+    fill="#8B5CF6"
+    opacity="0.05">
+
+    <animate
+      attributeName="r"
+      values="60;80;60"
+      dur="5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- ====================================================== -->
+  <!-- FLOATING PARTICLES -->
+  <!-- ====================================================== -->
+
+  <g fill="#00E5FF">
+
+    <circle cx="55" cy="125" r="3">
+
+      <animate
+        attributeName="cy"
+        values="125;105;125"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="0.2;1;0.2"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle cx="450" cy="95" r="2">
+
+      <animate
+        attributeName="cy"
+        values="95;75;95"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values="1;0.2;1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <circle cx="405" cy="350" r="3">
+
+      <animate
+        attributeName="cy"
+        values="350;330;350"
+        dur="4s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- LAPTOP -->
+  <!-- ====================================================== -->
+
+  <g filter="url(#shadow)">
+
+    <!-- Laptop screen -->
+
+    <rect
+      x="105"
+      y="55"
+      width="290"
+      height="205"
+      rx="12"
+      fill="#07111B"
+      stroke="#29465A"
+      stroke-width="3"
+    />
+
+    <!-- Screen -->
+
+    <rect
+      x="118"
+      y="68"
+      width="264"
+      height="178"
+      rx="6"
+      fill="url(#screen)"
+    />
+
+    <!-- Top bar -->
+
+    <rect
+      x="118"
+      y="68"
+      width="264"
+      height="25"
+      rx="6"
+      fill="#0B1D2B"
+    />
+
+    <!-- Window buttons -->
+
+    <circle cx="134" cy="80" r="4" fill="#00E5FF"/>
+    <circle cx="148" cy="80" r="4" fill="#8B5CF6"/>
+    <circle cx="162" cy="80" r="4" fill="#64748B"/>
+
+
+    <!-- ================================================== -->
+    <!-- CODE -->
+    <!-- ================================================== -->
+
+    <g font-family="monospace" font-size="13">
+
+      <!-- Line 1 -->
+
+      <text x="135" y="115" fill="#64748B">
+        01
+      </text>
+
+      <text x="165" y="115" fill="#C084FC">
+        &lt;div
+      </text>
+
+      <text x="215" y="115" fill="#67E8F9">
+        class=
+      </text>
+
+      <text x="265" y="115" fill="#A7F3D0">
+        "developer"
+      </text>
+
+      <!-- Line 2 -->
+
+      <text x="135" y="138" fill="#64748B">
+        02
+      </text>
+
+      <text x="165" y="138" fill="#F472B6">
+        $role
+      </text>
+
+      <text x="215" y="138" fill="#E2E8F0">
+        =
+      </text>
+
+      <text x="230" y="138" fill="#A7F3D0">
+        "Laravel Developer"
+      </text>
+
+      <!-- Line 3 -->
+
+      <text x="135" y="161" fill="#64748B">
+        03
+      </text>
+
+      <text x="165" y="161" fill="#F472B6">
+        $skills
+      </text>
+
+      <text x="225" y="161" fill="#E2E8F0">
+        =
+      </text>
+
+      <text x="240" y="161" fill="#67E8F9">
+        ["PHP","API","MySQL"]
+      </text>
+
+      <!-- Line 4 -->
+
+      <text x="135" y="184" fill="#64748B">
+        04
+      </text>
+
+      <text x="165" y="184" fill="#C084FC">
+        return
+      </text>
+
+      <text x="220" y="184" fill="#A7F3D0">
+        $success;
+      </text>
+
+      <!-- Line 5 -->
+
+      <text x="135" y="207" fill="#64748B">
+        05
+      </text>
+
+      <text x="165" y="207" fill="#C084FC">
+        &lt;/div&gt;
+      </text>
+
+    </g>
+
+
+    <!-- Animated cursor -->
+
+    <rect
+      x="330"
+      y="194"
+      width="8"
+      height="17"
+      fill="#00E5FF"
+      filter="url(#glow)">
+
+      <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"/>
+
+    </rect>
+
+
+    <!-- Laptop base -->
+
+    <path
+      d="M80 260
+         L420 260
+         L450 285
+         Q455 292 445 295
+         L55 295
+         Q45 292 50 285
+         Z"
+      fill="#142B3B"
+      stroke="#29465A"
+      stroke-width="2"
+    />
+
+    <!-- Trackpad -->
+
+    <rect
+      x="220"
+      y="268"
+      width="60"
+      height="12"
+      rx="4"
+      fill="#1E3A4F"
+    />
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- DEVELOPER -->
+  <!-- ====================================================== -->
+
+  <g>
+
+    <!-- Head -->
+
+    <circle
+      cx="365"
+      cy="235"
+      r="28"
+      fill="#F1C7A8"
+    />
+
+    <!-- Hair -->
+
+    <path
+      d="M340 230
+         Q340 198 368 199
+         Q395 200 393 229
+         Q382 215 369 216
+         Q352 216 340 230"
+      fill="#111827"
+    />
+
+    <!-- Body -->
+
+    <path
+      d="M325 330
+         Q330 275 365 268
+         Q400 275 407 330
+         Z"
+      fill="#0F766E"
+    />
+
+    <!-- Shirt accent -->
+
+    <path
+      d="M365 270
+         L350 330
+         L380 330
+         Z"
+      fill="#00E5FF"
+      opacity="0.8"
+    />
+
+    <!-- Arm -->
+
+    <path
+      d="M340 290
+         Q315 300 305 315
+         L320 325
+         Q340 310 355 300"
+      fill="#F1C7A8"
+    />
+
+    <!-- Hand -->
+
+    <circle
+      cx="318"
+      cy="318"
+      r="7"
+      fill="#F1C7A8"
+    />
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- FLOATING CODE ICON -->
+  <!-- ====================================================== -->
+
+  <g filter="url(#glow)">
+
+    <text
+      x="55"
+      y="225"
+      font-family="monospace"
+      font-size="28"
+      font-weight="bold"
+      fill="#00E5FF">
+
+      &lt;/&gt;
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0 -12; 0 0"
+        dur="4s"
+        repeatCount="indefinite"/>
+
+    </text>
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- STATUS -->
+  <!-- ====================================================== -->
+
+  <g>
+
+    <circle
+      cx="92"
+      cy="350"
+      r="6"
+      fill="#22C55E">
+
+      <animate
+        attributeName="opacity"
+        values="1;0.3;1"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <text
+      x="108"
+      y="355"
+      font-family="monospace"
+      font-size="13"
+      fill="#94A3B8">
+
+      Available for opportunities
+
+    </text>
+
+  </g>
+
+
+  <!-- ====================================================== -->
+  <!-- GLOWING BORDER -->
+  <!-- ====================================================== -->
+
+  <rect
+    x="2"
+    y="2"
+    width="496"
+    height="396"
+    rx="24"
+    fill="none"
+    stroke="url(#accent)"
+    stroke-width="2"
+    opacity="0.35">
+
+    <animate
+      attributeName="opacity"
+      values="0.2;0.6;0.2"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+</svg>
