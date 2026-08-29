@@ -1,144 +1,107 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MD.%20ARIF%20BILLAH%20SHOBUZ&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=PHP%20Laravel%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
-  width="100%"
-/>
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=PHP+Laravel+Developer;Backend+Developer;REST+API+Developer;Building+Scalable+Web+Applications;Code+%7C+Build+%7C+Learn+%7C+Repeat"
-  alt="Typing SVG"
-/>
-
-<br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=arifbillahshobuz&label=Profile%20Views&style=for-the-badge&color=0e75b6"
-/>
-
-</div>
-
 <!-- ========================================================= -->
-<!--                         ABOUT ME                          -->
+<!--                       ANIMATED HEADER                     -->
 <!-- ========================================================= -->
+
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Animated Header"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=PHP+Laravel+Developer;Backend+Developer;REST+API+Developer;Building+Scalable+Web+Applications;Code+%7C+Build+%7C+Learn+%7C+Repeat"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/arifbillahshobuz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=arifbillahshobuz&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
 I'm a **PHP Laravel Developer** with **2.5+ years of experience** building scalable web applications, REST APIs, and database-driven systems.
 
-- 🚀 Specialized in **PHP & Laravel**
+- 🚀 PHP & Laravel
 - 🔗 REST API & Third-Party API Integration
 - 🔐 OAuth & JWT Authentication
 - 🗄️ MySQL & PostgreSQL
-- ⚡ Laravel Blade, AJAX, jQuery & Axios
+- ⚡ Blade, AJAX, jQuery & Axios
 - 🎨 Bootstrap, Tailwind CSS & React.js
 - 🔧 Git & GitHub
-- 🌱 Always learning and exploring new technologies
 
 ---
 
-<!-- ========================================================= -->
-<!--                       TECH STACK                          -->
-<!-- ========================================================= -->
-
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+<p align="center">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,react,html,css,bootstrap,tailwind,git,github"/>
 
 </p>
 
-### 🗄️ Database & Tools
+<p align="center">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,bootstrap,tailwind" />
-
-</p>
-
-### 🔗 APIs & Technologies
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
-
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-height="180"
+  src="https://github-readme-stats.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  height="180"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
 />
 
-</div>
+</p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                       GITHUB STREAK                       -->
-<!-- ========================================================= -->
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=arifbillahshobuz&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=arifbillahshobuz&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
 />
 
-</div>
+</p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                   CONTRIBUTION GRAPH                      -->
-<!-- ========================================================= -->
 
 ## 🐍 Contribution Activity
 
-<div align="center">
+<p align="center">
 
 <img
-src="https://raw.githubusercontent.com/arifbillahshobuz/arifbillahshobuz/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/arifbillahshobuz/arifbillahshobuz/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
 />
 
-</div>
+</p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                   FEATURED PROJECTS                       -->
-<!-- ========================================================= -->
 
 ## 🚀 Featured Projects
 
@@ -151,7 +114,7 @@ alt="GitHub Contribution Snake"
 
 Full-stack web platform with a user-facing website and centralized Admin Panel.
 
-**Tech Stack**
+**Tech**
 
 `Laravel` `PHP` `MySQL` `Blade` `REST API`
 
@@ -161,9 +124,9 @@ Full-stack web platform with a user-facing website and centralized Admin Panel.
 
 ### 🌐 The Jona Project
 
-Dynamic Laravel web platform with a comprehensive Admin Panel for content and system management.
+Dynamic Laravel platform with a comprehensive Admin Panel.
 
-**Tech Stack**
+**Tech**
 
 `Laravel` `Blade` `MySQL` `API`
 
@@ -177,9 +140,9 @@ Dynamic Laravel web platform with a comprehensive Admin Panel for content and sy
 
 ### ✂️ Virtual Clipping
 
-Web-based platform built with Laravel and Blade with a centralized Admin Panel.
+Laravel-based web platform with centralized Admin Panel.
 
-**Tech Stack**
+**Tech**
 
 `Laravel` `Blade` `MySQL`
 
@@ -189,11 +152,11 @@ Web-based platform built with Laravel and Blade with a centralized Admin Panel.
 
 ### 🛒 Multi-Vendor eCommerce
 
-Multi-vendor platform supporting Customer, Vendor and Admin functionality.
+Multi-vendor platform supporting Customer, Vendor and Admin.
 
 **Features**
 
-`Products` `Categories` `Cart` `Orders` `Wishlist` `RBAC` `REST API`
+`Products` `Cart` `Orders` `Wishlist` `RBAC` `REST API`
 
 </td>
 
@@ -201,10 +164,6 @@ Multi-vendor platform supporting Customer, Vendor and Admin functionality.
 </table>
 
 ---
-
-<!-- ========================================================= -->
-<!--                         EXPERIENCE                        -->
-<!-- ========================================================= -->
 
 ## 💼 Experience
 
@@ -217,10 +176,6 @@ Multi-vendor platform supporting Customer, Vendor and Admin functionality.
 
 ---
 
-<!-- ========================================================= -->
-<!--                         EDUCATION                         -->
-<!-- ========================================================= -->
-
 ## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**  
@@ -231,13 +186,9 @@ Kushtia Polytechnic Institute
 
 ---
 
-<!-- ========================================================= -->
-<!--                         CONNECT                           -->
-<!-- ========================================================= -->
-
 ## 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:arifbillahshobuz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -255,35 +206,24 @@ Kushtia Polytechnic Institute
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                       DEVELOPER QUOTE                     -->
-<!-- ========================================================= -->
+<p align="center">
 
-<div align="center">
-
-### 💡 `Code. Build. Learn. Repeat. 🚀`
-
-<br>
+### 💻 Code. Build. Learn. Repeat. 🚀
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Clean+Code+%7C+Scalable+Architecture+%7C+Continuous+Learning;Backend+Development+is+my+Craft+%F0%9F%92%BB;Building+Today%2C+Learning+for+Tomorrow+%F0%9F%9A%80"
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Clean+Code+%7C+Scalable+Architecture;Backend+Development+is+my+Craft;Always+Learning+Something+New"
 />
 
-</div>
-
-<br>
+</p>
 
 <!-- ========================================================= -->
-<!--                    ANIMATED FOOTER                        -->
+<!--                       ANIMATED FOOTER                     -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=twinkling&color=0:271A45,35:162A46,70:0B1F33,100:050B14"/>
-
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Animated Footer"/>
+</p>
