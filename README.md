@@ -1,6 +1,27 @@
 <!-- ========================================================= -->
 <!--                    ANIMATED HEADER                        -->
 <!-- ========================================================= -->
+<!-- ==================== ANIMATED HEADER ==================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MD.%20ARIF%20BILLAH%20SHOBUZ&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=PHP%20Laravel%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
+  width="100%"
+/>
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=45&lines=PHP+Laravel+Developer;Backend+Developer;REST+API+Developer;Building+Scalable+Web+Applications;Code+%7C+Build+%7C+Learn+%7C+Repeat"
+  alt="Typing SVG"
+/>
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=arifbillahshobuz&label=Profile%20Views&style=for-the-badge&color=0e75b6"
+/>
+
+</div>
 
 <div align="center">
 
