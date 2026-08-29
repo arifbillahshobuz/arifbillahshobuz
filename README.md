@@ -35,17 +35,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-I'm a **PHP Laravel Developer** with **2.5+ years of experience** building scalable web applications, REST APIs, and database-driven systems.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🚀 PHP & Laravel
-- 🔗 REST API & Third-Party API Integration
-- 🔐 OAuth & JWT Authentication
-- 🗄️ MySQL & PostgreSQL
-- ⚡ Blade, AJAX, jQuery & Axios
-- 🎨 Bootstrap, Tailwind CSS & React.js
-- 🔧 Git & GitHub
+I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** building scalable web applications, REST APIs, and database-driven systems. My focus is on writing clean, maintainable code and building reliable backend solutions.
+
+- 🔭 Currently working with **Laravel & REST API development**.
+- 🧠 Interested in **scalable backend architecture, API security & system optimization**.
+- ⚡ Fun fact: I enjoy **learning new technologies and exploring AI & automation tools**.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/about-me.svg" width="320px" alt="Developer Illustration">
+
+</td>
+</tr>
+</table>
 
 ---
 
