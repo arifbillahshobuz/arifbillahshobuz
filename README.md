@@ -1,15 +1,4 @@
-<!-- ========================================================= -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ========================================================= -->
-<!-- ==================== ANIMATED HEADER ==================== -->
-
-
-
 <div align="center">
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MD.%20ARIF%20BILLAH%20SHOBUZ&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=PHP%20Laravel%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
-  width="100%"
-/>
 
 <img width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ARIF%20BILLAH%20SHOBUZ&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%3C%2F%3E%20PHP%20Laravel%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=9BE9FF&color=0:050B14,35:0B1F33,70:162A46,100:271A45"/>
