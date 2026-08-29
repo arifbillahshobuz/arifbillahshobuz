@@ -41,17 +41,17 @@
 <tr>
 <td width="60%" valign="top">
 
-I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** building scalable web applications, REST APIs, and database-driven systems. My focus is on writing clean, maintainable code and building reliable backend solutions.
+I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** building scalable web applications, REST APIs, and database-driven systems. I focus on clean, maintainable code and reliable backend solutions.
 
-- 🔭 Currently working with **Laravel & REST API development**.
-- 🧠 Interested in **scalable backend architecture, API security & system optimization**.
-- ⚡ Fun fact: I enjoy **learning new technologies and exploring AI & automation tools**.
+- 🔭 Building scalable **Laravel applications & REST APIs**.
+- 🧠 Interested in **backend architecture, API security & optimization**.
+- ⚡ Passionate about **learning new technologies and AI automation**.
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="./assets/about-me.svg" width="320px" alt="Developer Illustration">
+<img src="https://raw.githubusercontent.com/undraw/undraw/master/illustrations/web-developer.svg" width="300px" alt="Web Developer">
 
 </td>
 </tr>
