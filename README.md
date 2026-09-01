@@ -83,21 +83,16 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Arif Billah Shobuz GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  height="180"
 />
-
-</p>
-
-<p align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages"
+  height="180"
 />
 
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
