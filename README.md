@@ -82,13 +82,13 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
       />
     </td>
 
-    <td align="center" valign="middle">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        height="180"
-        alt="Top Languages"
-      />
-    </td>
+  <td align="center" valign="middle">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      height="180"
+      alt="Top Languages"
+    />
+  </td>
   </tr>
 </table>
 
