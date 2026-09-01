@@ -13,16 +13,20 @@
   />
 </p>
 
-
 <div align="center">
-<p align="center">
-  [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifbillahshobuz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifbillahshobuz)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-</p>
+
+<a href="mailto:arifbillahshobuz@gmail.com" style="display:inline-block;text-decoration:none;border:0;">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border:0;">
+</a><a href="https://github.com/arifbillahshobuz" style="display:inline-block;text-decoration:none;border:0;">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border:0;">
+</a><a href="YOUR_LINKEDIN_URL" style="display:inline-block;text-decoration:none;border:0;">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:0;">
+</a><a href="YOUR_PORTFOLIO_URL" style="display:inline-block;text-decoration:none;border:0;">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="border:0;">
+</a>
 
 </div>
+
 <table>
 <tr>
 <td width="60%" valign="top">
