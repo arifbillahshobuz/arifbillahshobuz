@@ -80,14 +80,13 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 
 </p>
+---
 
 <!-- ========================================================= -->
 <!--                  PERFORMANCE ANALYTICS                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">
-  📊 Performance Analytics
-</h2>
+## 📊 Performance Analytics
 
 <table align="center">
   <tr>
@@ -109,15 +108,18 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
   </tr>
 </table>
 
-<p align="center">
-
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
 <img
   src="https://streak-stats.demolab.com?user=arifbillahshobuz&background=191823&border=E4E2E2&stroke=E4E2E2&ring=FF3D91&fire=FF3D91&currStreakNum=FFD23F&sideNums=FF3D91&currStreakLabel=FFD23F&sideLabels=FF3D91&dates=A7F3F0&hide_border=false&border_radius=20"
   width="90%"
   alt="GitHub Performance Analytics"
 />
 
-</p>
+  </td>
+  </tr>
+</table>
 
 
 ---
