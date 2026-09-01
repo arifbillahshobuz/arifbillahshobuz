@@ -60,7 +60,6 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -80,7 +79,7 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 
 </p>
----
+</hr>
 
 <!-- ========================================================= -->
 <!--                  PERFORMANCE ANALYTICS                    -->
