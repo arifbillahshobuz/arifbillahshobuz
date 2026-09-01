@@ -93,15 +93,17 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 />
 
 </p>
+
 ---
 
-## 🔥 GitHub Streak
+## 📊 Performance Analytics
 
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=arifbillahshobuz&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=arifbillahshobuz&background=191823&border=E4E2E2&stroke=E4E2E2&ring=FF3D91&fire=FF3D91&currStreakNum=FFD23F&sideNums=FF3D91&currStreakLabel=FFD23F&sideLabels=FF3D91&dates=A7F3F0&hide_border=false&border_radius=20"
+  width="90%"
+  alt="GitHub Performance Analytics"
 />
 
 </p>
