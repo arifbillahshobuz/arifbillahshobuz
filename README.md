@@ -52,34 +52,28 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 - ⚡ Passionate about **learning new technologies and AI automation**.
 
 </td>
-
 <td width="40%" align="center">
-
 <img src="./assets/about-me.svg" width="320px" alt="Developer Illustration">
-
 </td>
 </tr>
 </table>
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,react,html,css,bootstrap,tailwind,git,github"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white"/>
 <img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge&logo=ajax&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-
 </p>
-</hr>
+---
+
+
 
 <!-- ========================================================= -->
 <!--                  PERFORMANCE ANALYTICS                    -->
