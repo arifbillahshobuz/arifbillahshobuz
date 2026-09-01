@@ -85,7 +85,8 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
     alt="Top Languages"
   />
   </div>
-
+</div>
+</div>
 
 <p align="center">
 
@@ -96,8 +97,7 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 />
 
 </p>
-</div>
-</div>
+
 
 ---
 
