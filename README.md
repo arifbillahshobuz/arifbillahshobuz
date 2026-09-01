@@ -64,6 +64,7 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 </p>
 
+<div align="center"> 
 <h2 align="center">
   📊 Performance Analytics
 </h2>
@@ -94,6 +95,7 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 />
 
 </p>
+</div>
 
 ---
 
