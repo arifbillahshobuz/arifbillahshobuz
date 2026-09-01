@@ -15,19 +15,19 @@
 
 <p align="center">
 
-<a href="mailto:arifbillahshobuz@gmail.com">
+<a href="mailto:arifbillahshobuz@gmail.com" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/arifbillahshobuz">
+<a href="https://github.com/arifbillahshobuz" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN_URL" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="YOUR_PORTFOLIO_URL" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
