@@ -78,8 +78,9 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 ---
 
-## 📊 GitHub Analytics
-
+<p align="center" style="font-size: 20px;">
+  📊 Performance Analytics
+</p>
 <p align="center">
 
 <img
@@ -92,12 +93,6 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
   height="180"
 />
 
-</p>
-
----
-
-<p align="center">
-  ## 📊 Performance Analytics
 </p>
 
 <p align="center">
