@@ -96,7 +96,9 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 ---
 
-## 📊 Performance Analytics
+<p align="center">
+  ## 📊 Performance Analytics
+</p>
 
 <p align="center">
 
