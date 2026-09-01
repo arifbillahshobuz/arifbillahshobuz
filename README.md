@@ -13,13 +13,35 @@
 <div align="center">
 
 <a href="mailto:arifbillahshobuz@gmail.com" style="display:inline-block;text-decoration:none;border:0;">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border:0;">
-</a><a href="https://github.com/arifbillahshobuz" style="display:inline-block;text-decoration:none;border:0;">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border:0;">
-</a><a href="YOUR_LINKEDIN_URL" style="display:inline-block;text-decoration:none;border:0;">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:0;">
-</a><a href="YOUR_PORTFOLIO_URL" style="display:inline-block;text-decoration:none;border:0;">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="border:0;">
+  <img
+    src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+    style="border:0;"
+  >
+</a>
+
+<a href="https://github.com/arifbillahshobuz/" style="display:inline-block;text-decoration:none;border:0;">
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+    style="border:0;"
+  >
+</a>
+
+<a href="https://www.linkedin.com/in/arif-billah-shobuz/" style="display:inline-block;text-decoration:none;border:0;">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+    style="border:0;"
+  >
+</a>
+
+<a href="https://arifbillahshobuz.kesug.com/" style="display:inline-block;text-decoration:none;border:0;">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+    style="border:0;"
+  >
 </a>
 
 </div>
