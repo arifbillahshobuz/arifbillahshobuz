@@ -115,10 +115,8 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 ---
 
-<p align="center">
-
 ### 💻 Code. Build. Learn. Repeat. 🚀
-
+<p align="center">
 <img
   src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Clean+Code+%7C+Scalable+Architecture;Backend+Development+is+my+Craft;Always+Learning+Something+New"
 />
