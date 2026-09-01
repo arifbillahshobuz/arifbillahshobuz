@@ -35,7 +35,6 @@
 
 ---
 
-## ✨ About Me
 
 <table>
 <tr>
