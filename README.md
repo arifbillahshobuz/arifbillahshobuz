@@ -12,6 +12,7 @@
     alt="Typing SVG"
   />
 </p>
+---
 
 <p align="center">
 
@@ -32,8 +33,6 @@
 </a>
 
 </p>
-
----
 
 
 <table>
