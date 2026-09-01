@@ -64,29 +64,33 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 </p>
 
-<div align="center"> 
-  <h2 align="center">
-    📊 Performance Analytics
-  </h2>
-  <div class="row">
-    <div class="col-6">
+<!-- ========================================================= -->
+<!--                  PERFORMANCE ANALYTICS                    -->
+<!-- ========================================================= -->
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  </div>
-  <div class="col-6">
-  
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-  </div>
-</div>
-</div>
+<h2 align="center">
+  📊 Performance Analytics
+</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=arifbillahshobuz&show_icons=true&theme=tokyonight&hide_border=true"
+        height="180"
+        alt="GitHub Stats"
+      />
+    </td>
+
+    <td align="center" valign="middle">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifbillahshobuz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 
