@@ -109,25 +109,6 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/arifbillahshobuz/arifbillahshobuz/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</p>
-
-
-
-## 📫 Connect With Me
-
-
-
----
-
 <p align="center">
 
 ### 💻 Code. Build. Learn. Repeat. 🚀
