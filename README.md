@@ -78,6 +78,8 @@ I am a passionate **PHP Laravel Developer** with **2.5+ years of experience** bu
 
 ---
 
+<a id="github-analytics"></a>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
